@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello, World!
 
-<!--
-**CoCoSol007/CoCoSol007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### whoami
 
-Here are some ideas to get you started:
+My name is CoCoSol and I am a 17-year-old French coder with a strong desire to learn. Despite my limited experience, I am passionate about development and mathematics. Currently, I am a student at Caousou in France and I am always seeking new challenges. To contact me or ask any questions, please email me at contact@cocosol.fr.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Some projects 
+
+You would like to see some of my projects, please visit my [website](https://cocosol.fr).
+
+---
+
+🔭 I’m currently working on [Border-Wars](https://github.com/CoCoSol007/border-wars)
+
+:crab: Fun fact: I love RUST 
+
