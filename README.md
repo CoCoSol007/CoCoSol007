@@ -14,4 +14,4 @@ You would like to see some of my projects, please visit my [website](https://coc
 
 ---
 
-🔭 I’m currently working on [Border-Wars](https://github.com/CoCoSol007/border-wars)
+🔭 I’m currently working on [Beats into Shapes](https://github.com/CoCoSol007/beats-into-shapes)
