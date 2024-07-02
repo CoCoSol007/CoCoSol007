@@ -2,7 +2,7 @@
 
 ### whoami
 
-My name is CoCoSol and I am a 17-year-old French coder with a strong desire to learn. Despite my limited experience, I am passionate about development and mathematics. Currently, I am a student at Caousou in France and I am always seeking new challenges. To contact me or ask any questions, please email me at contact@cocosol.fr.
+My name is CoCoSol and I am a 16-year-old French coder with a strong desire to learn. Despite my limited experience, I am passionate about development and mathematics. Currently, I am a student at Caousou in France and I am always seeking new challenges. To contact me or ask any questions, please email me at contact@cocosol.fr.
 
 I am fluent in French and am learning Esperanto and English. 
 
