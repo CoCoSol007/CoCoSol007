@@ -20,10 +20,15 @@
 ## Projects I Want to Create
 - [x] Video Games
 - [x] WebSite
+- [ ] Learn blender
+- [ ] Simple Minecraft plugin
 - [ ] Learn how to use NixOS and configure my own IDE (vide)
 - [ ] Setup my server with NixOS
 - [ ] Deepen my knowledge of AI and develop an AI project
 - [ ] Start a physics engine project
 - [ ] Complete Zak, a playful programming language
 - [ ] Enhance my 3D Python renderer
-- [ ] My own Simple Central Processing Unit Architecture 
+- [ ] My own Simple Central Processing Unit Architecture
+- [ ] 10 interpreters in 10 languages
+- [ ] Create my own compiled programming language
+- [ ] Build a basic operating system kernel from scratch
