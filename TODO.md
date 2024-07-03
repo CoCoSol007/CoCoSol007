@@ -13,13 +13,13 @@
 - [ ] Lisp
 
 ## Languages
-- [x] Frensh
+- [x] French 
 - [ ] Enhance my English skills
 - [ ] Study Esperanto
 
 ## Projects I Want to Create
 - [x] Video Games
-- [x] WebSite
+- [x] Website
 - [ ] Learn blender
 - [ ] Simple Minecraft plugin
 - [ ] Learn how to use NixOS and configure my own IDE (vide)
