@@ -15,4 +15,4 @@ You would like to see some of my projects, please visit my [website](https://coc
 
 ---
 
-🔭 I’m currently working on [Beats into Shapes](https://github.com/CoCoSol007/beats-into-shapes)
+🔭 If you want to see what I have planned to do, click [here](/TODO.md) to see my personal ToDo list.
