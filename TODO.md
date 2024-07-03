@@ -10,6 +10,7 @@
 - [ ] C and C++
 - [ ] OCaml
 - [ ] Java
+- [ ] Lisp
 
 ## Languages
 - [x] Frensh
