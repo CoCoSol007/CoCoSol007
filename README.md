@@ -13,6 +13,7 @@ I am fluent in French and am learning Esperanto and English.
 
 You would like to see some of my projects, please visit my [website](https://cocosol.fr).
 
----
+## 🔭 Check Out My ToDo List!
+If you want to see what I have planned to do, click the link below to see my personal ToDo list:
 
-🔭 If you want to see what I have planned to do, click [here](/TODO.md) to see my personal ToDo list.
+👉 **[My Personal ToDo List](https://cocosol.fr/TODO.md)**
