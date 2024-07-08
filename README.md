@@ -16,4 +16,4 @@ You would like to see some of my projects, please visit my [website](https://coc
 ## 🔭 Check Out My ToDo List!
 If you want to see what I have planned to do, click the link below to see my personal ToDo list:
 
-👉 **[My Personal ToDo List](https://cocosol.fr/TODO.md)**
+👉 **[My Personal ToDo List](https://github.com/CoCoSol007/CoCoSol007/blob/main/TODO.md)**
